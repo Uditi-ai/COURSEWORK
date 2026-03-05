@@ -1,16 +1,11 @@
 # COURSEWORK
 Repository for Programming Language II coursework and assignments.
-About the Course
-Programming Language - II focuses on advanced concepts in Python. Topics covered include:
+# Coursework Repository
 
-Recursion
-Sorting
-numpy and pandas
-Problem-solving exercises and programming assignments
-Purpose of This Repository
-The purpose of this repository is to:
+This repository contains my coursework and assignments for the Programming Language II course.
 
-Maintain organized records of coursework
-Track progress over time
-Practice version control using Git and GitHub
-Share completed assignments after the due date
+## About the Course
+Programming Language II focuses on advanced Python programming concepts and problem solving.
+
+## Purpose of this Repository
+The purpose of this repository is to store and organize assignments completed during the course and track progress overtime
